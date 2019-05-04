@@ -72,7 +72,7 @@ a:link{
 .head-nav{
     width: 800px;
   margin: 20px;
-  margin-left: 500px;
+  margin-left: 550px;
   position: relative;
   border: none;
 }
@@ -81,13 +81,14 @@ a:link{
     width: 300px;
   padding: 10px;
   margin: 70px;
-  margin-right: 900px;
-  bottom: 150px;
+  margin-right: 800px;
+  bottom: 190px;
   position: relative; 
   border: none;
 }
+
 .jumbo{
-    width: 1200px;
+    width: 1300px;
   padding: 10px;
   bottom: 100px;
   position: relative;
@@ -115,7 +116,7 @@ p {
 }
 
 .top-content .text-container {
-    width: 48%;
+    width: 35%;
     padding: 0 1%;
     padding-bottom: 20px;  
 }
@@ -155,7 +156,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box2{
@@ -166,7 +167,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box3{
@@ -177,7 +178,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box4{
@@ -188,7 +189,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box5{
@@ -199,7 +200,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box6{
@@ -210,7 +211,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box7{
@@ -221,7 +222,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box8{
@@ -232,7 +233,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box9{
@@ -243,7 +244,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .box10{
@@ -254,7 +255,7 @@ p {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around ;
 }
 
 
