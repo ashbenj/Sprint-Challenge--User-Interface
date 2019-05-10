@@ -62,6 +62,61 @@ h1, h2, h3, h4, h5 {
     font-family: 'Rubik', sans-serif;
 }
 
+a:link{
+    color: #151313;
+    margin: 30px;
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+}
+.head-nav{
+    width: 800px;
+  margin: 20px;
+  margin-left: 550px;
+  position: relative;
+  border: none;
+}
+
+.about-nav{
+    width: 800px;
+  margin: 20px;
+  margin-left: 550px;
+  position: relative;
+  border: none;
+}
+
+.logo{
+    width: 300px;
+  padding: 10px;
+  margin: 70px;
+  margin-right: 800px;
+  bottom: 190px;
+  position: relative; 
+  border: none;
+}
+
+.picture{
+    width: 1300px;
+  padding: 10px;
+  bottom: 100px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
+.jumbo{
+    width: 1300px;
+  padding: 10px;
+  bottom: 100px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
 p {
     line-height: 1.4;
 }
@@ -80,7 +135,7 @@ p {
 }
 
 .top-content .text-container {
-    width: 48%;
+    width: 35%;
     padding: 0 1%;
     padding-bottom: 20px;  
 }
@@ -111,6 +166,117 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+.box1{
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box2{
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box3{
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box4{
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box5{
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box6{
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box7{
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box8{
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box9{
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box10{
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+}
+
 
 .bottom-content {
     display: flex;
